@@ -1,5 +1,5 @@
 ---
-# Test title
+title: Test title
 posts
 topics
 ---
